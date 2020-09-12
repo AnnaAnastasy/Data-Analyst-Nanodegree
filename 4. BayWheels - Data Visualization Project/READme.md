@@ -3,7 +3,7 @@
 This project in the last part of the "Data Analyst Nanodegree" by Udacity. In this Project, I wrangled and thoroughly analysed a dataset of the bike company BayWheels. The two main goals of this project were:
 
 1. Perform Exploratory Data Visualisation (`baywheel_project.ipynb`)
-2. Perform Explanatory Data Visualisation (`slide_presentation.ipynb`)
+2. Perform Explanatory Data Visualisation (`slide_presentation.ipynb` and `slide_presentation.slides.html`)
 
 ## Dataset
 
